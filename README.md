@@ -23,4 +23,4 @@ Una vez instalado R, ya podemos empezar a trabajar. Si desde la consola general 
 
 ## Instalación de Rstudio
 
-Como se visualiza en la imagen anterior, funciones como help() y demo() nos ayudarán a empezar a conocer la sintaxis de R. Con la función q() saldremos del entorno de R. Para programar en R y realizar análisis de datos no es aconsejable ni práctico trabajar con la consola de R sino que es necesario disponer de una interfaz más visual, como RStudio, que es un entorno de desarrollo integrado (IDE) de R que incluye diferentes herramientas, como la consola, un editor de código y otros elementos de depuración
+Como se visualiza en la imagen anterior, funciones como _help()_ y _demo()_ nos ayudarán a empezar a conocer la sintaxis de R. Con la función _q()_ saldremos del entorno de R. Para programar en R y realizar análisis de datos no es aconsejable ni práctico trabajar con la consola de R sino que es necesario disponer de una interfaz más visual, como RStudio, que es un entorno de desarrollo integrado (IDE) de R que incluye diferentes herramientas, como la consola, un editor de código y otros elementos de depuración
