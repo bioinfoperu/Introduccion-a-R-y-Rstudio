@@ -19,8 +19,13 @@ Para descargar R, seleccionad la versión en función de vuestra plataforma de t
 
 **Descarga R para Windows** (https://cran.r-project.org/bin/windows/base/)
 
+Descargamos el archivo de instalación **R-4.1.2-win** e instalamos todo por default.
+
 Una vez instalado R, ya podemos empezar a trabajar. Si desde la consola general de vuestro ordenador escribís R, aparecerá un símbolo prompt (>), donde podéis empezar a escribir instrucciones en R.
+
+
+Como se visualiza en la imagen anterior, funciones como _help()_ y _demo()_ nos ayudarán a empezar a conocer la sintaxis de R. Con la función _q()_ saldremos del entorno de R. 
 
 ## Instalación de Rstudio
 
-Como se visualiza en la imagen anterior, funciones como _help()_ y _demo()_ nos ayudarán a empezar a conocer la sintaxis de R. Con la función _q()_ saldremos del entorno de R. Para programar en R y realizar análisis de datos no es aconsejable ni práctico trabajar con la consola de R sino que es necesario disponer de una interfaz más visual, como RStudio, que es un entorno de desarrollo integrado (IDE) de R que incluye diferentes herramientas, como la consola, un editor de código y otros elementos de depuración
+Para programar en R y realizar análisis de datos no es aconsejable ni práctico trabajar con la consola de R sino que es necesario disponer de una interfaz más visual, como RStudio, que es un entorno de desarrollo integrado (IDE) de R que incluye diferentes herramientas, como la consola, un editor de código y otros elementos de depuración
