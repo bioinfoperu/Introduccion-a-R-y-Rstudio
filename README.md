@@ -16,7 +16,9 @@ R es un lenguaje de programación más utilizados en los campos de biomedicina, 
 
 La web oficial de descarga de R es https://cran.r-project.org/. Es conveniente acceder a las fuentes oficiales para realizar la descarga del programa, ya que aquí encontraréis las versiones y documentación de R actualizadas.
 Para descargar R, seleccionad la versión en función de vuestra plataforma de trabajo:
--	Descarga R para Windows
+
+**Descarga R para Windows** (https://cran.r-project.org/bin/windows/base/)
+
 Una vez instalado R, ya podemos empezar a trabajar. Si desde la consola general de vuestro ordenador escribís R, aparecerá un símbolo prompt (>), donde podéis empezar a escribir instrucciones en R.
 
 ## Instalación de Rstudio
