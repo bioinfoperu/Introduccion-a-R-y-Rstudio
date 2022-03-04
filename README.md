@@ -21,6 +21,8 @@ Para descargar R, seleccionad la versión en función de vuestra plataforma de t
 
 Descargamos el archivo de instalación **R-4.1.2-win** e instalamos todo por default.
 
+![image]()
+
 Una vez instalado R, ya podemos empezar a trabajar. Si desde la consola general de vuestro ordenador escribís R, aparecerá un símbolo prompt (>), donde podéis empezar a escribir instrucciones en R.
 
 
