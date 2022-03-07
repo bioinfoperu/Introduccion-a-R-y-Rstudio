@@ -27,7 +27,7 @@ Descargamos el archivo de instalación **R-4.1.2-win** e instalamos todo por def
 
 Luego, tenemos:
 
-![image](https://github.com/bioinfoperu/Introduccion-a-R-y-Rstudio/blob/main/img/R_instalacion9.PNG)
+![image](https://github.com/bioinfoperu/Introduccion-a-R-y-Rstudio/blob/main/img/R_instalacion9.png)
 
 Una vez instalado R, ya podemos empezar a trabajar. Si desde la consola general de vuestro ordenador escribís R, aparecerá un símbolo prompt (>), donde podéis empezar a escribir instrucciones en R.
 
