@@ -5,7 +5,7 @@ Manuel Alain Ramírez Sáenz --> Llámame `MARS`
 
 ## Contenido:
 
-* Instalación de R 
+* Instalación de R [Instalacion de R](https://github.com/bioinfoperu/Introduccion-a-R-y-Rstudio/tree/main/Lecture/Instalacion%20de%20R/README.md)
 * Instala del entorno Rstudio.
 * Gestión de paquetes en R.
 * Importación y exportación de archivos en R.
