@@ -5,3 +5,32 @@ Para programar en R y realizar análisis de datos no es aconsejable ni práctico
 * **Descarga Rstudio para Linux, Windows o Macos** (https://www.rstudio.com/products/rstudio/download/#download)
 
 ![image](https://github.com/bioinfoperu/Introduccion-a-R-y-Rstudio/blob/main/img/Rstudio_interfaz.png)
+
+* **Interfaz de Rstudio**
+
+La interfaz se divide en cuatro ventanas, las de la izquierda correspen al espacio de trabajo y las de la derecha nos dan información sobre los diferentes con los que se trabajarán, paquetes instalados e información general de R. 
+
+Para comenzar a trabajar con R desde Rstudio, abriremos el programa y ejecutaremos _File > New File > R Script_. En este momento visualizaremos cuatro ventanas en la interfaz de Rstudio. Escribiremo código en el espacio de trabajo y presionando el boton de _Run_ o _Ctrl + R_, ejecutaremos la linea o lineas del código R. Los resultados los visualizaremos en la ventan inferior, este espacio se le denimona **modo consola**.
+
+El script que escribiremos lo guardaremos en _File > Save As_, el cual nos dará in archivo con extensión _.R_.
+
+**¡Bien!**
+
+Ante de empezar tenemos que ubicar los archivos de trabajo. Para ello, realizaremos lo siguiente _Session > Set working directory > Choose Directory_. Tambien la función _setwd("directorio")_ permite cambiar la ubicació de los archivos. 
+
+En caso que requerimos ayuda podemos presionar la pestaña **_Help_** del panel derecho. Tambien podemos ejecutar la función precediendola del simbolo _?_. Ejemplo:
+
+**?print**
+
+# Ejercicio 1 #
+
+* Ejecutar _help()_, _print("Hola y mucho gusto R")_ y finalemente _q()_ para salir de la consola
+* Crear un Rscript, guardánsolo como R_Ejericio1.R en una ubicación determinada que contenga el siguiente código en R_
+
+```
+## Ejercicio 1 ##
+
+print("Hola y mucho gusto R")
+
+## [1] "Hola y mucho gusto R"
+```
