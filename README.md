@@ -17,9 +17,9 @@ R es un lenguaje de programación más utilizados en los campos de biomedicina, 
 La web oficial de descarga de R es https://cran.r-project.org/. Es conveniente acceder a las fuentes oficiales para realizar la descarga del programa, ya que aquí encontraréis las versiones y documentación de R actualizadas.
 Para descargar R, seleccionad la versión en función de vuestra plataforma de trabajo:
 
-**Descarga R para Linux** (https://cran.r-project.org/)
-**Descarga R para Macos** (https://cran.r-project.org/bin/windows/base/)
-**Descarga R para Windows** (https://cran.r-project.org/)
+* **Descarga R para Linux** (https://cran.r-project.org/)
+* **Descarga R para Macos** (https://cran.r-project.org/bin/windows/base/)
+* **Descarga R para Windows** (https://cran.r-project.org/)
 
 Descargamos el archivo de instalación **R-4.1.2-win** e instalamos todo por default.
 
