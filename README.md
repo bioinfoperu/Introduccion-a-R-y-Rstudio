@@ -31,8 +31,9 @@ Luego, tenemos:
 
 Una vez instalado R, ya podemos empezar a trabajar. Si desde la consola general de vuestro ordenador escribís R, aparecerá un símbolo prompt (>), donde podéis empezar a escribir instrucciones en R.
 
+![image](https://github.com/bioinfoperu/Introduccion-a-R-y-Rstudio/blob/main/img/R_prompt.png)
 
-Como se visualiza en la imagen anterior, funciones como _help()_ y _demo()_ nos ayudarán a empezar a conocer la sintaxis de R. Con la función _q()_ saldremos del entorno de R. 
+Como se puede ver en la imagen anterior, las funciones como _help()_ y _demo()_ nos ayudarán a empezar a conocer la sintaxis de R. Con la función _q()_ saldremos del entorno de R.
 
 ## Instalación de Rstudio
 
