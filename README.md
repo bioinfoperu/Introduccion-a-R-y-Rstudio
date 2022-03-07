@@ -5,7 +5,8 @@ Manuel Alain Ramírez Sáenz --> Llámame `MARS`
 
 ## Contenido:
 
-* Instalación de R y el entorno Rstudio.
+* Instalación de R 
+* Instala del entorno Rstudio.
 * Gestión de paquetes en R.
 * Importación y exportación de archivos en R.
 * Tipos de datos, operadores y estructura en datos en R.
