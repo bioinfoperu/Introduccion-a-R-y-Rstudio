@@ -492,3 +492,18 @@ car <- c("aa","bb","cc")
 obj.list <- list(num, car) # Crear una lista de un vector numérico y de otro de tipo caracter
 obj.list
 ```
+
+```{r}
+obj.list[[1]] # Muestra el primer elemento de la lista definida
+```
+
+### Ejercicio 11 
+
+```{r}
+anorexia_treat_list <- list(anorexia$Treat, anorexia$Prewt)
+anorexia_treat_list
+```
+
+```{r}
+anorexia_treat_list[[2]]
+```
