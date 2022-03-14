@@ -22,15 +22,26 @@ En caso que requerimos ayuda podemos presionar la pestaña **_Help_** del panel 
 
 **?print**
 
-# Ejercicio 1 #
+## Entorno de trabajo de RStudio
 
-* Ejecutar _help()_, _print("Hola y mucho gusto R")_ y finalemente _q()_ para salir de la consola
-* Crear un Rscript, guardánsolo como R_Ejericio1.R en una ubicación determinada que contenga el siguiente código en R_
+* Permite cambiar la ubicación de los archivos
 
 ```
-## Ejercicio 1 ##
-
-print("Hola y mucho gusto R")
-
-## [1] "Hola y mucho gusto R"
+setwd() 
 ```
+
+* Visualizar la ayuda sobre una determinada función
+
+```
+?print 
+```
+
+```
+help()
+
+```
+
+### **Ejercicio 1**
+
+```{r}
+print("Este es mi primer Script en R")
